@@ -1,8 +1,10 @@
-import Image from "next/image";
+import { Button } from "@/components/ui/button"
 
 export default function Home() {
   return (
-    <div>My first Next.js project </div>
+    <div className="mt-40">
+      <Button variant="destructive">My first Next.js project </Button>
+    </div>
   )
 }
 
