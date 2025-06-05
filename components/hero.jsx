@@ -42,9 +42,9 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.youtube.com/roadsidecoder">
+          <Link href="https://github.com/Priyanshu150/my-finance-tracker-app">
             <Button size="lg" variant="outline" className="px-8">
-              Watch Demo
+              Source Code
             </Button>
           </Link>
         </div>
