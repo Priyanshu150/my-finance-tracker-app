@@ -42,7 +42,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://github.com/Priyanshu150/my-finance-tracker-app">
+          <Link href="https://github.com/Priyanshu150/my-finance-tracker-app" target="_blank">
             <Button size="lg" variant="outline" className="px-8">
               Source Code
             </Button>
@@ -51,7 +51,7 @@ const HeroSection = () => {
         <div className="hero-image-wrapper mt-5 md:mt-0">
           <div ref={imageRef} className="hero-image">
             <Image
-              src="/banner.jpeg"
+              src="/banner.png"
               width={1280}
               height={720}
               alt="Dashboard Preview"
